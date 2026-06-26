@@ -1,4 +1,4 @@
-# Healthcare Insurance Analytics Platform — Capstone Project ( Takeo )
+# Healthcare Insurance Analytics Platform — Capstone Project 
 
 ## What I Built
 
